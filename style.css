@@ -11,3 +11,9 @@ button {
     color: white;
     
 }
+
+.dial {
+    border-radius: 20px;
+    font-size: 2em;
+    text-align: center;
+}
